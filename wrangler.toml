@@ -9,7 +9,7 @@ compatibility_date = "2021-11-19"
 #
 # ALLOWED_ORIGINS: Sets CORS header and checks that requests have appropriate
 # origin header. If unset or empty all origins are allowed
-vars = { TILE_CACHE_SECS = "86400", ALLOWED_ORIGINS = "" }
+vars = { TILE_CACHE_SECS = "604800", ALLOWED_ORIGINS = "" }
 
 # [secrets]
 # STRAVA_ID
